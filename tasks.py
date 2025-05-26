@@ -1,4 +1,5 @@
 from robocorp.tasks import task
+import requests
 
 @task
 def minimal_task():
