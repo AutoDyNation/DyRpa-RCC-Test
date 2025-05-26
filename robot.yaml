@@ -6,7 +6,6 @@ tasks:
     shell: python -m robocorp.tasks run tasks.py
 
 environmentConfigs:
-  - environment_linux_amd64_freeze.yaml
   - conda.yaml
 
 artifactsDir: output
