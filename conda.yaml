@@ -13,4 +13,4 @@ dependencies:
     - robocorp==3.0.0             # https://pypi.org/project/robocorp
     - robocorp-browser==2.3.5     # https://pypi.org/project/robocorp-browser
     - requests==2.32.3
-    - uiautomation==2.0.20
+    - akeyless==4.2.1
